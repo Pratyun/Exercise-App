@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot 2023-12-25 095517](https://github.com/Pratyun/Exercise-App/assets/75127381/2694df09-abd9-4bc1-a06a-e8c3ba9d33d3)
+![Screenshot 2023-12-25 095535](https://github.com/Pratyun/Exercise-App/assets/75127381/b794ab3d-138d-42f2-a642-d3ae606b8b28)
+![Screenshot 2023-12-25 095650](https://github.com/Pratyun/Exercise-App/assets/75127381/2ed7f008-b6bd-4b30-a2af-dd72a07237da)
+![Screenshot 2023-12-25 095703](https://github.com/Pratyun/Exercise-App/assets/75127381/ec4e54dd-4467-410e-868d-cdad5c09e5cb)
+![Screenshot 2023-12-25 095456](https://github.com/Pratyun/Exercise-App/assets/75127381/c69f8815-2c1b-4f12-9ec1-48bc82048fb3)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
